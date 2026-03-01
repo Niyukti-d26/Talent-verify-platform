@@ -50,9 +50,28 @@ The platform includes built-in mock accounts to test the real-time interaction.
 5. **Action**: Apply to an internship as the student. Watch the application instantly stream into the Company's `Live Event` and `Recent Applications` feed.
 
 ## 🛠 Tech Stack
-- **Frontend**: React 19, Vite
-- **Styling**: Context-aware custom CSS styling with a Glassmorphism aesthetic and a built-in hybrid light/dark mode.
-- **Icons/Fonts**: Lucide React, JetBrains Mono, Cabinet Grotesk, DM Sans.
+**Frontend**
+React.js – User Interface Development
+Tailwind CSS – Responsive Styling
+
+**Backend**
+Python
+FastAPI – REST API Development
+
+**Database**
+MongoDB Atlas – Cloud Database
+
+**Authentication**
+Firebase Authentication – Secure Login & Role-Based Access
+
+**Integrations**
+GitHub REST API – Repository & Activity Verification
+OpenAI API – AI-Based Simulation Evaluation
+
+**Deployment**
+Vercel – Frontend Hosting
+Render / Railway – Backend Hosting
+
 
 ## 📈 Next Steps (Production)
 - Hook up real WebSockets (`Socket.IO`) or Server-Sent Events to replace the simulated pub/sub.
